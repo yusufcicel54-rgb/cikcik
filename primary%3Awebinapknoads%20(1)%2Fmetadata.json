@@ -1,0 +1,6 @@
+{
+  "name": "WebInApkNoAds",
+  "description": "Herhangi bir web sitesini, belirlediğiniz isim ve ikonla reklamsız, sadece o siteye kilitli özel bir Android uygulamasına (APK) dönüştürün.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
